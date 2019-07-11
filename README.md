@@ -1,6 +1,3 @@
-# Simpler Drawer Player
-Simple drawer player is the final project of Software Construction: Data Abstraction course on EdX
-
 # Description
 In the given area you can draw simple shapes. Each shape as its own color and sound.
 Shapes can be resized and moved.
